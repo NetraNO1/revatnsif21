@@ -1,4 +1,4 @@
-package com.netra.inhertance.overloading;
+package com.netra.overloading;
 
 public class RBI {
 	

@@ -1,4 +1,4 @@
-package com.netra.inhertance.example;
+package com.netra.inhertance1;
 
 class A {
  int i;

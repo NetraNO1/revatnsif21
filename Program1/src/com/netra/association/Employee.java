@@ -1,4 +1,4 @@
-package com.netra.inhertance.association;
+package com.netra.association;
 
 
  public class Employee {

@@ -1,4 +1,4 @@
-package com.netra.inhertance.association;
+package com.netra.association;
 
 class IsDemo {
 	public static void main(String[] args) {

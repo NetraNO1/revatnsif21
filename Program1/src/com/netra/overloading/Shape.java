@@ -1,4 +1,4 @@
-package com.netra.inhertance.overloading;
+package com.netra.overloading;
 
 abstract class Shape {
 
